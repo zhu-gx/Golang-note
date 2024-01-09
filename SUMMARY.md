@@ -4,4 +4,5 @@
 
 ## 开始
 
-* [安装Go](<README (1).md>)
+* [下载并安装](kai-shi/xia-zai-bing-an-zhuang.md)
+* [Go入门](kai-shi/go-ru-men.md)
