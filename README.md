@@ -1,5 +1,3 @@
-# 安装Go
+# 简介
 
-## 安装
-
-* Go的安装网站：[https://go.dev/dl/](https://go.dev/dl/)
+这是本人学习Go语言的记录。
